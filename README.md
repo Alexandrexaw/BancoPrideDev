@@ -1,2 +1,3 @@
 # BancoPrideDev
-# Projetos
+
+Projeto de desenvolvimento na linguagem JAVA
